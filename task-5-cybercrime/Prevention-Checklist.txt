@@ -1,0 +1,33 @@
+Stay Safe Online: Prevention Checklist
+
+The 3-2-1 Backup Rule: 
+Keep 3 copies of your important data, on 2 diƯerent media (e.g., Cloud and Hard Drive), with 1 copy stored oƯline (unplugged from your laptop).
+
+Update Your OS Weekly: 
+Hackers exploit "vulnerabilities" in old versions of Windows or Android. Setting your phone and laptop to "Auto-Update" is your first line of defense.
+
+Say No to "Cracked" Software:
+Avoid downloading pirated software or "hacked" games. These are the #1 delivery method for ransomware and keyloggers.
+
+Disable "Auto-Download" on WhatsApp: 
+Go to Settings > Storage and Data. Turn oƯ media auto-download to prevent malicious files from saving themselves to your gallery.
+
+Use a Firewall:
+Ensure your Windows/Mac firewall is always active. It monitors incoming and outgoing traƯic to block suspicious connections from hackers.
+
+Scan External Drives: 
+Before opening files from a friend’s pen drive or an external hard disk, run a quick antivirus scan.
+
+UPI Safety (Financial): 
+Don't Click Random SMS Links. If you receive an SMS saying "You electricity will be cut, pay via this UPI link," ignore it. Always pay through the oƯicial provider's app.
+
+UPI Safety (VPA Privacy): 
+Avoid using your mobile number as your UPI ID (e.g., 9876543210@paytm). Instead, create a custom handle (e.g., studious.gecko@okicici) to keep your phone number private.
+
+
+Reporting Channels:
+
+National Cyber Crime Portal:
+cybercrime.gov.in
+National Helpline: 
+1930 (For immediate assistance with financial or data extortion)
